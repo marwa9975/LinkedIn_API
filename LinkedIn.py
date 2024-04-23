@@ -1,6 +1,6 @@
 from linkedin_api import Linkedin
 
-api = Linkedin('marwaosman9975@gmail.com', '*****')
+api = Linkedin('*****@gmail.com', '*****')
 
 profile = input('input username:')
 
