@@ -1,0 +1,467 @@
+{
+   "summary":"I am a General Partner at B Venture Capital, a seed and early stage venture capital fund investing in tech startups in the Latam region. With over 10 years of experience in strategic planning, marketing, and project management, I have a passion for supporting entrepreneurs and building a stronger startup ecosystem in Latam.\n\nIn addition to my investing role, I also serve as a mentor for the Startup Acceleration Program, where I share my insights and advice on digital strategy, growth marketing, and fundraising. Previously, I co-founded CitySpot, a digital content agency in São Paulo, focused on helping small businesses in developing digital strategy. I hold an MBA from IE Business School, a graduate degree in Business in Digital Media, and a BA in Economics. I am fluent in Spanish, English, and Portuguese.",
+   "industryName":"Venture Capital and Private Equity Principals",
+   "lastName":"Troll Bouroncle",
+   "locationName":"Peru",
+   "student":false,
+   "geoCountryName":"Peru",
+   "geoCountryUrn":"urn:li:fs_geo:102927786",
+   "geoLocationBackfilled":false,
+   "elt":false,
+   "industryUrn":"urn:li:fs_industry:106",
+   "firstName":"Alejandro",
+   "entityUrn":"urn:li:fs_profile:ACoAAAWYRYQB5mEb6DiMh258v7BGMpXIjaI3mGk",
+   "geoLocation":{
+      "geoUrn":"urn:li:fs_geo:102927786"
+   },
+   "location":{
+      "basicLocation":{
+         "countryCode":"pe"
+      }
+   },
+   "headline":"General Partner @ BVC | MBA | Venture Capital | Early Stage Investor | Startups | Latam Region",
+   "displayPictureUrl":"https://media.licdn.com/dms/image/D4E35AQFc3AKwtjwYcA/profile-framedphoto-shrink_",
+   "img_400_400":"400_400/0/1709508119644?e=1714482000&v=beta&t=esln6HeSJV4qyouu59yNT37CuUrfVFO9ALZL7qQ1GJY",
+   "img_200_200":"200_200/0/1709508119644?e=1714482000&v=beta&t=ggI5cxAVTEBtqDlqQdCjU7_j547Y32tGCG0BgIR1J9U",
+   "img_800_800":"800_800/0/1709508119644?e=1714482000&v=beta&t=nhvr67kh44P9HEJyok1e-y59IyCr_lvdh0TiOg6W5PU",
+   "img_100_100":"100_100/0/1709508119644?e=1714482000&v=beta&t=QRlKVkUCw93DwdxwtQ-8niC7Yuju6JqPRFiNi05_S2Q",
+   "profile_id":"ACoAAAWYRYQB5mEb6DiMh258v7BGMpXIjaI3mGk",
+   "profile_urn":"urn:li:fs_miniProfile:ACoAAAWYRYQB5mEb6DiMh258v7BGMpXIjaI3mGk",
+   "member_urn":"urn:li:member:93865348",
+   "public_id":"alejandrotroll",
+   "experience":[
+      {
+         "locationName":"Lima, Perú",
+         "entityUrn":"urn:li:fs_position:(ACoAAAWYRYQB5mEb6DiMh258v7BGMpXIjaI3mGk,1537820152)",
+         "geoLocationName":"Lima, Perú",
+         "companyName":"B Venture Capital (BVC)",
+         "timePeriod":{
+            "startDate":{
+               "month":8,
+               "year":2019
+            }
+         },
+         "description":"Early Stage & Seed Venture Capital Fund investing in tech startups in the Latam Region.",
+         "company":{
+            "employeeCountRange":{
+               "start":2,
+               "end":10
+            },
+            "industries":[
+               "Venture Capital & Private Equity"
+            ]
+         },
+         "title":"General Partner",
+         "companyUrn":"urn:li:fs_miniCompany:10630516",
+         "companyLogoUrl":"https://media.licdn.com/dms/image/C4D0BAQG9abviAf2eEQ/company-logo_"
+      },
+      {
+         "locationName":"Bogotá, Distrito Capital, Colombia",
+         "entityUrn":"urn:li:fs_position:(ACoAAAWYRYQB5mEb6DiMh258v7BGMpXIjaI3mGk,2043565506)",
+         "geoLocationName":"Bogotá, Distrito Capital, Colombia",
+         "geoUrn":"urn:li:fs_geo:102361989",
+         "companyName":"Cube Ventures Aceleradora",
+         "timePeriod":{
+            "startDate":{
+               "month":8,
+               "year":2021
+            }
+         },
+         "company":{
+            "employeeCountRange":{
+               "start":11,
+               "end":50
+            },
+            "industries":[
+               "Venture Capital & Private Equity"
+            ]
+         },
+         "title":"Startup Acceleration Program Mentor",
+         "region":"urn:li:fs_region:(co,0)",
+         "companyUrn":"urn:li:fs_miniCompany:64619430",
+         "companyLogoUrl":"https://media.licdn.com/dms/image/C560BAQEcZl6pdcxwyg/company-logo_"
+      },
+      {
+         "locationName":"São Paulo e Região, Brasil",
+         "entityUrn":"urn:li:fs_position:(ACoAAAWYRYQB5mEb6DiMh258v7BGMpXIjaI3mGk,1418000351)",
+         "geoLocationName":"São Paulo e Região, Brasil",
+         "geoUrn":"urn:li:fs_geo:90009574",
+         "companyName":"CitySpot",
+         "timePeriod":{
+            "endDate":{
+               "month":10,
+               "year":2021
+            },
+            "startDate":{
+               "month":10,
+               "year":2018
+            }
+         },
+         "description":"Digital Content Strategy",
+         "company":{
+            "employeeCountRange":{
+               "start":2,
+               "end":10
+            },
+            "industries":[
+               "Online Media"
+            ]
+         },
+         "title":"Co-Founder",
+         "region":"urn:li:fs_region:(br,6368)",
+         "companyUrn":"urn:li:fs_miniCompany:13044867",
+         "companyLogoUrl":"https://media.licdn.com/dms/image/C4D0BAQGYgGhD6onvaA/company-logo_"
+      },
+      {
+         "entityUrn":"urn:li:fs_position:(ACoAAAWYRYQB5mEb6DiMh258v7BGMpXIjaI3mGk,1868136981)",
+         "companyName":"Japan International Cooperation Agency (JICA)",
+         "timePeriod":{
+            "endDate":{
+               "month":9,
+               "year":2021
+            },
+            "startDate":{
+               "month":5,
+               "year":2021
+            }
+         },
+         "description":"Entrepreneurship and Startup Ecosystem Research",
+         "company":{
+            "employeeCountRange":{
+               "start":1001,
+               "end":5000
+            },
+            "industries":[
+               "Civic & Social Organization"
+            ]
+         },
+         "title":"Consultor independiente",
+         "companyUrn":"urn:li:fs_miniCompany:244407",
+         "companyLogoUrl":"https://media.licdn.com/dms/image/C4E0BAQEcPAnhHVx3-w/company-logo_"
+      },
+      {
+         "courses":[
+            "urn:li:fs_course:(ACoAAAWYRYQB5mEb6DiMh258v7BGMpXIjaI3mGk,1854981095)"
+         ],
+         "locationName":"São Paulo Area, Brazil",
+         "entityUrn":"urn:li:fs_position:(ACoAAAWYRYQB5mEb6DiMh258v7BGMpXIjaI3mGk,1385138672)",
+         "geoLocationName":"São Paulo Area, Brazil",
+         "companyName":"Telefónica",
+         "timePeriod":{
+            "endDate":{
+               "month":3,
+               "year":2019
+            },
+            "startDate":{
+               "month":12,
+               "year":2017
+            }
+         },
+         "description":"Go to market strategy for new global movistar apps in LATAM region. \nIdentify new business opportunities and incorporate them in product and UX definition.\nCommunication between local digital transformation teams and global teams.",
+         "company":{
+            "employeeCountRange":{
+               "start":10001
+            },
+            "industries":[
+               "Telecommunications"
+            ]
+         },
+         "title":"Global Commercial Product Manager - Telefonica Innovation & Digital Experience",
+         "companyUrn":"urn:li:fs_miniCompany:2103",
+         "companyLogoUrl":"https://media.licdn.com/dms/image/D4D0BAQGRtciX6ob_0A/company-logo_"
+      }
+   ],
+   "education":[
+      {
+         "entityUrn":"urn:li:fs_education:(ACoAAAWYRYQB5mEb6DiMh258v7BGMpXIjaI3mGk,58837465)",
+         "school":{
+            "objectUrn":"urn:li:school:12189",
+            "entityUrn":"urn:li:fs_miniSchool:12189",
+            "active":true,
+            "schoolName":"IE Business School",
+            "trackingId":"B59aT3rBSKm9cxcxXrNgZA==",
+            "logoUrl":"https://media.licdn.com/dms/image/C4D0BAQGvE_Hi22X6lQ/company-logo_"
+         },
+         "timePeriod":{
+            "endDate":{
+               "year":2011
+            },
+            "startDate":{
+               "year":2010
+            }
+         },
+         "description":"Beca Completa de Telefónica por reconocimiento de desempeño y logros.",
+         "degreeName":"Master of Business Administration (MBA)",
+         "schoolName":"IE (Instituto de Empresa)",
+         "fieldOfStudy":"Business Administration and Management, General",
+         "schoolUrn":"urn:li:fs_miniSchool:12189"
+      },
+      {
+         "entityUrn":"urn:li:fs_education:(ACoAAAWYRYQB5mEb6DiMh258v7BGMpXIjaI3mGk,540947096)",
+         "school":{
+            "objectUrn":"urn:li:school:10523",
+            "entityUrn":"urn:li:fs_miniSchool:10523",
+            "active":true,
+            "schoolName":"Centro Universitário FMU | FIAM-FAAM",
+            "trackingId":"5n6F9HFvRta6kaTMU6wMVg==",
+            "logoUrl":"https://media.licdn.com/dms/image/C4D0BAQFz5AeYZ6e19Q/company-logo_"
+         },
+         "timePeriod":{
+            "endDate":{
+               "year":2017
+            },
+            "startDate":{
+               "year":2017
+            }
+         },
+         "degreeName":"Graduate Studies",
+         "schoolName":"Faculdades Metropolitanas Unidas",
+         "fieldOfStudy":"Business in Digital Media",
+         "schoolUrn":"urn:li:fs_miniSchool:10523"
+      },
+      {
+         "entityUrn":"urn:li:fs_education:(ACoAAAWYRYQB5mEb6DiMh258v7BGMpXIjaI3mGk,349814662)",
+         "school":{
+            "objectUrn":"urn:li:school:42984",
+            "entityUrn":"urn:li:fs_miniSchool:42984",
+            "active":true,
+            "schoolName":"ISDI",
+            "trackingId":"AQRqzMZVTJuy/cU4EiSunA==",
+            "logoUrl":"https://media.licdn.com/dms/image/D4D0BAQGT_48LC37R-g/company-logo_"
+         },
+         "timePeriod":{
+            "endDate":{
+               "year":2016
+            },
+            "startDate":{
+               "year":2016
+            }
+         },
+         "degreeName":"Programa de Formación Digital",
+         "schoolName":"ISDI - Instituto Superior para el Desarrollo de Internet",
+         "fieldOfStudy":"Canales Digitales de Atención",
+         "schoolUrn":"urn:li:fs_miniSchool:42984"
+      }
+   ],
+   "languages":[
+      {
+         "name":"English",
+         "proficiency":"NATIVE_OR_BILINGUAL"
+      },
+      {
+         "name":"Portuguese",
+         "proficiency":"NATIVE_OR_BILINGUAL"
+      },
+      {
+         "name":"Spanish",
+         "proficiency":"NATIVE_OR_BILINGUAL"
+      }
+   ],
+   "publications":[
+      
+   ],
+   "certifications":[
+      
+   ],
+   "volunteer":[
+      {
+         "role":"Voluntário",
+         "companyName":"Cidadão Pró-Mundo",
+         "timePeriod":{
+            "startDate":{
+               "month":4,
+               "year":2018
+            }
+         },
+         "cause":"EDUCATION",
+         "company":{
+            "miniCompany":{
+               "objectUrn":"urn:li:company:2432618",
+               "entityUrn":"urn:li:fs_miniCompany:2432618",
+               "name":"Cidadão Pró-Mundo",
+               "showcase":false,
+               "active":true,
+               "logo":{
+                  "com.linkedin.common.VectorImage":{
+                     "artifacts":[
+                        {
+                           "width":200,
+                           "fileIdentifyingUrlPathSegment":"200_200/0/1659974459162/cidadaopromundo_logo?e=1721865600&v=beta&t=fMC7m57Zk-CEw8b3vlyM3exVMhlAZ-E7YF53v22ySXY",
+                           "expiresAt":1721865600000,
+                           "height":200
+                        },
+                        {
+                           "width":100,
+                           "fileIdentifyingUrlPathSegment":"100_100/0/1659974459162/cidadaopromundo_logo?e=1721865600&v=beta&t=G29YOmSZzWDE345SDx_eAtvuw_5Z3toVi6TUBteZ9Tk",
+                           "expiresAt":1721865600000,
+                           "height":100
+                        },
+                        {
+                           "width":400,
+                           "fileIdentifyingUrlPathSegment":"400_400/0/1659974459162/cidadaopromundo_logo?e=1721865600&v=beta&t=UiTwSCwRjtbefeg6oCvPjv-1Nf7JRpXib-0XoZe7flE",
+                           "expiresAt":1721865600000,
+                           "height":400
+                        }
+                     ],
+                     "rootUrl":"https://media.licdn.com/dms/image/C4D0BAQHi6a4eyJO27w/company-logo_"
+                  }
+               },
+               "universalName":"cidadaopromundo",
+               "dashCompanyUrn":"urn:li:fsd_company:2432618",
+               "trackingId":"5AvaDzfKTDmWCqSOfwWyYQ=="
+            }
+         },
+         "companyUrn":"urn:li:fs_miniCompany:2432618"
+      },
+      {
+         "role":"Volunteer",
+         "companyName":"Crea+ Brasil",
+         "timePeriod":{
+            "endDate":{
+               "month":12,
+               "year":2017
+            },
+            "startDate":{
+               "month":6,
+               "year":2016
+            }
+         },
+         "cause":"EDUCATION",
+         "company":{
+            "miniCompany":{
+               "objectUrn":"urn:li:company:2742667",
+               "entityUrn":"urn:li:fs_miniCompany:2742667",
+               "name":"Crea+ Brasil",
+               "showcase":false,
+               "active":true,
+               "logo":{
+                  "com.linkedin.common.VectorImage":{
+                     "artifacts":[
+                        {
+                           "width":200,
+                           "fileIdentifyingUrlPathSegment":"200_200/0/1630566259056/crea_brasil_logo?e=1721865600&v=beta&t=8Rze_LCELlmS_0-zEu-SRBjOazJOie8k9fwh-iGEXXM",
+                           "expiresAt":1721865600000,
+                           "height":200
+                        },
+                        {
+                           "width":100,
+                           "fileIdentifyingUrlPathSegment":"100_100/0/1630566259056/crea_brasil_logo?e=1721865600&v=beta&t=iEGNAlJdwGCRUf7wxXjoRqnTpfjUbByBEtkCco4bJgw",
+                           "expiresAt":1721865600000,
+                           "height":100
+                        },
+                        {
+                           "width":400,
+                           "fileIdentifyingUrlPathSegment":"400_400/0/1630566259056/crea_brasil_logo?e=1721865600&v=beta&t=7VDC0Mr58Xoqu7d_X9fJFMtcS69Lgc1yKhqQjwy7loo",
+                           "expiresAt":1721865600000,
+                           "height":400
+                        }
+                     ],
+                     "rootUrl":"https://media.licdn.com/dms/image/C4D0BAQHWLfwRZHxEXA/company-logo_"
+                  }
+               },
+               "universalName":"crea-brasil",
+               "dashCompanyUrn":"urn:li:fsd_company:2742667",
+               "trackingId":"8S6GzStwQX+2xjnmNuLo3A=="
+            }
+         },
+         "companyUrn":"urn:li:fs_miniCompany:2742667"
+      },
+      {
+         "role":"Volunteer",
+         "companyName":"Crea+ Perú",
+         "timePeriod":{
+            "endDate":{
+               "month":10,
+               "year":2010
+            },
+            "startDate":{
+               "month":11,
+               "year":2008
+            }
+         },
+         "cause":"EDUCATION",
+         "company":{
+            "miniCompany":{
+               "objectUrn":"urn:li:company:3786591",
+               "entityUrn":"urn:li:fs_miniCompany:3786591",
+               "name":"Crea+ Perú",
+               "showcase":false,
+               "active":true,
+               "logo":{
+                  "com.linkedin.common.VectorImage":{
+                     "artifacts":[
+                        {
+                           "width":200,
+                           "fileIdentifyingUrlPathSegment":"200_200/0/1689010009392/crea_per_logo?e=1721865600&v=beta&t=fTK3SYNcNAY1mBKdGxaVFl1EeAFD10M0pg1j7RH4zjY",
+                           "expiresAt":1721865600000,
+                           "height":200
+                        },
+                        {
+                           "width":100,
+                           "fileIdentifyingUrlPathSegment":"100_100/0/1689010009392/crea_per_logo?e=1721865600&v=beta&t=9O77guYJXeSncb9sUCVho1Aiypv0792OyTUTID7lb0E",
+                           "expiresAt":1721865600000,
+                           "height":100
+                        },
+                        {
+                           "width":400,
+                           "fileIdentifyingUrlPathSegment":"400_400/0/1689010009392/crea_per_logo?e=1721865600&v=beta&t=XRHkbpKt-C8R9nu7VVAPci6IvnxNesv01yoPnWmxAPg",
+                           "expiresAt":1721865600000,
+                           "height":400
+                        }
+                     ],
+                     "rootUrl":"https://media.licdn.com/dms/image/D4E0BAQHMMZ5D8brK6Q/company-logo_"
+                  }
+               },
+               "universalName":"crea-perú",
+               "dashCompanyUrn":"urn:li:fsd_company:3786591",
+               "trackingId":"6HI1OiNkSkinmdHLzi2MMQ=="
+            }
+         },
+         "companyUrn":"urn:li:fs_miniCompany:3786591"
+      }
+   ],
+   "honors":[
+      {
+         "occupation":"urn:li:fs_position:(ACoAAAWYRYQB5mEb6DiMh258v7BGMpXIjaI3mGk,868747134)",
+         "title":"Best Results Global Project",
+         "issueDate":{
+            "month":7,
+            "year":2017
+         },
+         "issuer":"Telefonica LATAM"
+      },
+      {
+         "description":"Evaluated at the top 15% among my peers during the years 2009 and 2010.",
+         "occupation":"urn:li:fs_position:(ACoAAAWYRYQB5mEb6DiMh258v7BGMpXIjaI3mGk,150378222)",
+         "title":"Top Analyst",
+         "issueDate":{
+            "month":9,
+            "year":2010
+         },
+         "issuer":"Movistar Peru"
+      },
+      {
+         "description":"Selected among top analysts from the Americas region as a recipient of a Full Scholarship for recognition of achievements for the International MBA at IE Business School, in Madrid, Spain. ",
+         "occupation":"urn:li:fs_position:(ACoAAAWYRYQB5mEb6DiMh258v7BGMpXIjaI3mGk,150378222)",
+         "title":"Fundacion Carolina and Telefonica Full Scholarship.",
+         "issueDate":{
+            "month":5,
+            "year":2010
+         },
+         "issuer":"Fundacion Carolina e Telefonica"
+      },
+      {
+         "description":"Selected as Peru’s representative at the annual regional program “Horizonte 2008” for high potential young professionals in 2008 in Quito, Ecuador.",
+         "occupation":"urn:li:fs_position:(ACoAAAWYRYQB5mEb6DiMh258v7BGMpXIjaI3mGk,166969860)",
+         "title":"High Potential Young Proffesional",
+         "issueDate":{
+            "month":10,
+            "year":2008
+         },
+         "issuer":"Telefonica Latinoamerica"
+      }
+   ],
+   "projects":[
+      
+   ]
+}

@@ -1,0 +1,305 @@
+{
+   "summary":"Accomplished Vice President with extensive banking experience, specializing in Mortgage Operations, Commercial Lending, and Credit Analysis. A Dowling College graduate with a unique blend of tech advocacy and entrepreneurial acumen, I've consistently delivered results in both corporate and non-profit arenas. Eager to leverage this diverse skill set to drive further growth and innovation",
+   "industryName":"Banking",
+   "lastName":"Akpe",
+   "locationName":"United States",
+   "student":false,
+   "geoCountryName":"United States",
+   "geoCountryUrn":"urn:li:fs_geo:103644278",
+   "geoLocationBackfilled":false,
+   "elt":false,
+   "industryUrn":"urn:li:fs_industry:41",
+   "firstName":"Anie",
+   "entityUrn":"urn:li:fs_profile:ACoAAAKPsm8B6V4Tugaj_OPiYg_ZX8v40A0k3e4",
+   "geoLocation":{
+      "geoUrn":"urn:li:fs_geo:104361728"
+   },
+   "geoLocationName":"Brooklyn, New York",
+   "location":{
+      "basicLocation":{
+         "countryCode":"us"
+      }
+   },
+   "headline":"Community Builder | Tech Innovator | Champion for Empowering African Women",
+   "displayPictureUrl":"https://media.licdn.com/dms/image/D4E03AQH1zs8_UfyZjg/profile-displayphoto-shrink_",
+   "img_100_100":"100_100/0/1707054917411?e=1719446400&v=beta&t=2wiJ0Xay5sH40QwZmcvJ1eFSj5CdG9GEr9zINBLGpqg",
+   "img_200_200":"200_200/0/1707054917411?e=1719446400&v=beta&t=P9jfeeIVL5xRUQhNWXSOR1gIvkPFq34z8yvHVUtkVv4",
+   "img_400_400":"400_400/0/1707054917411?e=1719446400&v=beta&t=DDOTft5PAxxlmqfN163LuwbmlclEwiSIMQK8CyXcMxU",
+   "img_800_800":"800_800/0/1707054917411?e=1719446400&v=beta&t=j8xpf9T6Qi1_USKgYd7_96h341nOu5wDV9kbjJM42Bk",
+   "profile_id":"ACoAAAKPsm8B6V4Tugaj_OPiYg_ZX8v40A0k3e4",
+   "profile_urn":"urn:li:fs_miniProfile:ACoAAAKPsm8B6V4Tugaj_OPiYg_ZX8v40A0k3e4",
+   "member_urn":"urn:li:member:42971759",
+   "public_id":"anie-akpe-abb48312",
+   "experience":[
+      {
+         "locationName":"Silicon Valley, California, United States",
+         "entityUrn":"urn:li:fs_position:(ACoAAAKPsm8B6V4Tugaj_OPiYg_ZX8v40A0k3e4,2334667184)",
+         "geoLocationName":"Silicon Valley, California, United States",
+         "geoUrn":"urn:li:fs_geo:102490453",
+         "companyName":"African Diaspora Network",
+         "timePeriod":{
+            "startDate":{
+               "month":2,
+               "year":2024
+            }
+         },
+         "description":"In my role as Community and Partnership Manager at the African Diaspora Network, I focus on a variety of key areas to enhance our community's impact and reach:\n\n- Strengthen Community Ties: I work to build a supportive and vibrant community among the African diaspora, fostering a sense of unity and mutual support.\n\n- Forge Strategic Partnerships: I develop and sustain strategic relationships with organizations and stakeholders that share our mission, to expand our network's influence and capabilities.\n\n- Promote Innovation and Collaboration: I encourage the diaspora to engage in innovation through technology and entrepreneurship, facilitating collaboration and the exchange of knowledge.\n\n- Amplify Voices: I aim to elevate the voices and contributions of the African diaspora in global arenas, ensuring our representation and impact in critical discussions.\n\n- Mobilize Resources: I seek out and mobilize resources to support the diaspora's growth, including funding, mentorship programs, and educational opportunities.\n\n- Drive Impactful Initiatives: I lead initiatives aimed at the economic, social, and cultural empowerment of Africans and people of African descent.\n\n- Champion Diversity and Inclusion: I advocate for diversity, equity, and inclusion within our diaspora community and in our partnerships, highlighting the value of diverse perspectives and experiences.\n\nMy commitment to empowering the African diaspora is at the heart of my work, as I leverage my skills to foster a global community marked by innovation, resilience, and progress.",
+         "company":{
+            "employeeCountRange":{
+               "start":2,
+               "end":10
+            },
+            "industries":[
+               "Nonprofit Organization Management"
+            ]
+         },
+         "title":"Community and Partnership Manager",
+         "region":"urn:li:fs_region:(us,0)",
+         "companyUrn":"urn:li:fs_miniCompany:1982539",
+         "companyLogoUrl":"https://media.licdn.com/dms/image/C560BAQGZuXlqzjH6XQ/company-logo_"
+      },
+      {
+         "locationName":"New York, New York",
+         "entityUrn":"urn:li:fs_position:(ACoAAAKPsm8B6V4Tugaj_OPiYg_ZX8v40A0k3e4,1064829632)",
+         "geoLocationName":"New York, New York",
+         "companyName":"African Women In Tech - AWIT-",
+         "timePeriod":{
+            "startDate":{
+               "month":1,
+               "year":2016
+            }
+         },
+         "description":"- Launched African Women in Technology with a vision to advocate and bolster the presence of women in the tech sector across Africa.\n- Drove impactful change, training over 8,000 young women and girls in various African countries, with a specialized focus on tech proficiency and entrepreneurship.\n- Transitioned from the successful groundwork of IBOM LLC, further defining customer discovery initiatives to address unique challenges and opportunities within the African tech landscape.\n- Developed a holistic product vision and roadmap, underpinned by robust customer acquisition strategies, setting the direction for an overarching brand strategy.\n- Conducted in-depth market research, identifying industry competition and harnessing emerging trends, ensuring African Women in Technology remained a pioneering force in promoting women's roles in technology.\n- Nurtured and grew influential partnerships with businesses, creating a symbiotic environment for collaboration, growth, and shared successes.\n- Led the organization with a blend of strategic insight and on-the-ground execution, ensuring operational scalability and consistently high levels of stakeholder satisfaction.",
+         "company":{
+            "employeeCountRange":{
+               "start":2,
+               "end":10
+            },
+            "industries":[
+               "Information Technology and Services"
+            ]
+         },
+         "title":"Founder",
+         "companyUrn":"urn:li:fs_miniCompany:14025758",
+         "companyLogoUrl":"https://media.licdn.com/dms/image/C4D0BAQF8yHH8XqLjxA/company-logo_"
+      },
+      {
+         "locationName":"Washington, District of Columbia, United States",
+         "entityUrn":"urn:li:fs_position:(ACoAAAKPsm8B6V4Tugaj_OPiYg_ZX8v40A0k3e4,2286727294)",
+         "geoLocationName":"Washington, District of Columbia, United States",
+         "geoUrn":"urn:li:fs_geo:104383890",
+         "companyName":"US Department Of Commerce FCU",
+         "timePeriod":{
+            "endDate":{
+               "month":11,
+               "year":2023
+            },
+            "startDate":{
+               "month":3,
+               "year":2021
+            }
+         },
+         "description":"-Managed mortgage loan production quality and directed mortgage originators\n-Developed new proposals, contracts and procedures to draw in more clients and streamline work operations.\n-Implemented systems and procedures to increase sales.\n-Supervised key functions, including underwriting, processing, escrow, servicing, secondary market, and asset recovery\n-Collaborated with VP of Mortgage Lending to diversify interest and fee revenue\nLed day-to-day mortgage lending functions and developed staff and processes for portfolio growth\n-Oversaw Lending QB loan origination system, ensuring regulatory compliance\nand efficiency\n-Directed quality control processes, facilitated training, and represented Bank in industry groups\n-Implemented new systems to enhance operational efficiency.\n-Handled administrative systems to assist senior leadership and over 35 staff\nmembers\n-Setup Test Scenarios for system conversion\n-Generated new business with marketing initiatives and strategic plans.",
+         "title":"Assistant Vice Mortgage Operations ",
+         "region":"urn:li:fs_region:(us,0)"
+      },
+      {
+         "locationName":"Greater New York City Area",
+         "entityUrn":"urn:li:fs_position:(ACoAAAKPsm8B6V4Tugaj_OPiYg_ZX8v40A0k3e4,594682998)",
+         "geoLocationName":"Greater New York City Area",
+         "companyName":"IBOM LLC",
+         "timePeriod":{
+            "endDate":{
+               "month":12,
+               "year":2022
+            },
+            "startDate":{
+               "month":11,
+               "year":2011
+            }
+         },
+         "description":"**Founder | IBOM LLC**\n\n- Founded IBOM LLC with a mission to boost revenues and drive strategic growth for small businesses, specifically catering to the African Diaspora community.\n- Pioneered comprehensive educational initiatives, including targeted seminars and culturally-rich events, to enhance knowledge and business acumen within the community.\n- Successfully validated startup concepts, drove traction, and built foundational teams for clients, showcasing expertise in challenger sales and fostering executive relationships across various sectors.\n- Integrated tech advocacy, curating cutting-edge tech events and ensuring the community remains at the forefront of technological advancements. Explore our latest insights on [Innov8tiv](http://www.innov8tiv.com), our dedicated platform for tech news and updates.\n- Conducted in-depth market research to pinpoint industry competition and discern beneficial trends, laying the groundwork for innovative strategies and modernized procedures.",
+         "company":{
+            "employeeCountRange":{
+               "start":2,
+               "end":10
+            },
+            "industries":[
+               "Management Consulting"
+            ]
+         },
+         "title":"Founder",
+         "companyUrn":"urn:li:fs_miniCompany:3290171",
+         "companyLogoUrl":"https://media.licdn.com/dms/image/C4D0BAQGjBwNgH1Q76w/company-logo_"
+      },
+      {
+         "locationName":"New York, New York",
+         "entityUrn":"urn:li:fs_position:(ACoAAAKPsm8B6V4Tugaj_OPiYg_ZX8v40A0k3e4,69060036)",
+         "geoLocationName":"New York, New York",
+         "companyName":"Municipal Credit Union",
+         "timePeriod":{
+            "endDate":{
+               "month":6,
+               "year":2019
+            },
+            "startDate":{
+               "month":11,
+               "year":2002
+            }
+         },
+         "organizations":[
+            "urn:li:fs_organization:(ACoAAAKPsm8B6V4Tugaj_OPiYg_ZX8v40A0k3e4,33)"
+         ],
+         "description":"Certainly! Here's a revised version incorporating those specifics:\n\n- Spearheaded the growth of the mortgage portfolio, elevating its value from $225M to an impressive $1.2B, consistently meeting and exceeding annual targets.\n- Championed the integration of cutting-edge mortgage technology systems such as Prime Alliance, Harland Servicing, Originations System, and Mortgagebot, enhancing operational efficiency and client service.\n- Collaborated with non-profit organizations to promote homeownership for low-income buyers, emphasizing community upliftment and financial inclusivity.\n- Pioneered the seamless execution of multiple system implementations and migrations, including notable projects with Jack Henry (2011) and Fiserv in Lending (2004).\n- Steered the team through critical testing phases, ensuring functionality and data integrity during system conversions, emphasizing attention to detail and user experience.\n- Led a dynamic team comprising sales, processing, underwriting, quality control, and loss mitigation departments, fostering a culture of excellence and ensuring cohesion across diverse operational areas.",
+         "company":{
+            "employeeCountRange":{
+               "start":501,
+               "end":1000
+            },
+            "industries":[
+               "Financial Services"
+            ]
+         },
+         "title":"VP/Mortgage Operations",
+         "companyUrn":"urn:li:fs_miniCompany:49608",
+         "companyLogoUrl":"https://media.licdn.com/dms/image/C510BAQE13zAA-azKcQ/company-logo_"
+      }
+   ],
+   "education":[
+      {
+         "entityUrn":"urn:li:fs_education:(ACoAAAKPsm8B6V4Tugaj_OPiYg_ZX8v40A0k3e4,84795395)",
+         "school":{
+            "objectUrn":"urn:li:school:18950",
+            "entityUrn":"urn:li:fs_miniSchool:18950",
+            "active":true,
+            "schoolName":"Dowling College",
+            "trackingId":"uNRn+hLCSPe0SMVLRdQmVA==",
+            "logoUrl":"https://media.licdn.com/dms/image/C510BAQGgdDEVBMy6Bw/company-logo_"
+         },
+         "timePeriod":{
+            "endDate":{
+               "year":2011
+            },
+            "startDate":{
+               "year":2010
+            }
+         },
+         "degreeName":"MBA",
+         "schoolName":"Dowling College",
+         "schoolUrn":"urn:li:fs_miniSchool:18950"
+      },
+      {
+         "entityUrn":"urn:li:fs_education:(ACoAAAKPsm8B6V4Tugaj_OPiYg_ZX8v40A0k3e4,245307182)",
+         "activities":"DECA",
+         "timePeriod":{
+            "endDate":{
+               "year":1988
+            },
+            "startDate":{
+               "year":1984
+            }
+         },
+         "degreeName":"General Studies",
+         "schoolName":"Roseville High School"
+      }
+   ],
+   "languages":[
+      
+   ],
+   "publications":[
+      {
+         "date":{
+            "month":2,
+            "year":2015,
+            "day":2
+         },
+         "name":"Innov8tiv’s 50 Young Visionary Men To Watch In 2015",
+         "publisher":"innov8tiv.com",
+         "url":"http://innov8tiv.com/innov8tivs-50-young-visionary-men-watch-2015/",
+         "authors":[
+            {
+               "member":{
+                  "firstName":"Anie",
+                  "lastName":"Akpe",
+                  "dashEntityUrn":"urn:li:fsd_profile:ACoAAAKPsm8B6V4Tugaj_OPiYg_ZX8v40A0k3e4",
+                  "occupation":"Community Builder | Tech Innovator | Champion for Empowering African Women",
+                  "objectUrn":"urn:li:member:42971759",
+                  "entityUrn":"urn:li:fs_miniProfile:ACoAAAKPsm8B6V4Tugaj_OPiYg_ZX8v40A0k3e4",
+                  "backgroundImage":{
+                     "com.linkedin.common.VectorImage":{
+                        "artifacts":[
+                           {
+                              "width":798,
+                              "fileIdentifyingUrlPathSegment":"200_800/0/1707056173857?e=1719446400&v=beta&t=LRd3Vo6rO3aQ4HSaSGEYbhP2PTyOk0lMyA6_5MJRkEQ",
+                              "expiresAt":1719446400000,
+                              "height":200
+                           },
+                           {
+                              "width":1290,
+                              "fileIdentifyingUrlPathSegment":"350_1400/0/1707056173857?e=1719446400&v=beta&t=-DlOj4T9I-pznq_qGQynnIqyU1N_2CVDhpVM8upnLhc",
+                              "expiresAt":1719446400000,
+                              "height":323
+                           }
+                        ],
+                        "rootUrl":"https://media.licdn.com/dms/image/D4E16AQHA5lSQvhr1pg/profile-displaybackgroundimage-shrink_"
+                     }
+                  },
+                  "publicIdentifier":"anie-akpe-abb48312",
+                  "picture":{
+                     "com.linkedin.common.VectorImage":{
+                        "artifacts":[
+                           {
+                              "width":100,
+                              "fileIdentifyingUrlPathSegment":"100_100/0/1707054917411?e=1719446400&v=beta&t=2wiJ0Xay5sH40QwZmcvJ1eFSj5CdG9GEr9zINBLGpqg",
+                              "expiresAt":1719446400000,
+                              "height":100
+                           },
+                           {
+                              "width":200,
+                              "fileIdentifyingUrlPathSegment":"200_200/0/1707054917411?e=1719446400&v=beta&t=P9jfeeIVL5xRUQhNWXSOR1gIvkPFq34z8yvHVUtkVv4",
+                              "expiresAt":1719446400000,
+                              "height":200
+                           },
+                           {
+                              "width":400,
+                              "fileIdentifyingUrlPathSegment":"400_400/0/1707054917411?e=1719446400&v=beta&t=DDOTft5PAxxlmqfN163LuwbmlclEwiSIMQK8CyXcMxU",
+                              "expiresAt":1719446400000,
+                              "height":400
+                           },
+                           {
+                              "width":800,
+                              "fileIdentifyingUrlPathSegment":"800_800/0/1707054917411?e=1719446400&v=beta&t=j8xpf9T6Qi1_USKgYd7_96h341nOu5wDV9kbjJM42Bk",
+                              "expiresAt":1719446400000,
+                              "height":800
+                           }
+                        ],
+                        "rootUrl":"https://media.licdn.com/dms/image/D4E03AQH1zs8_UfyZjg/profile-displayphoto-shrink_"
+                     }
+                  },
+                  "trackingId":"e0reM/Y3Tv2w0MYn4Wmsiw=="
+               },
+               "profileUrn":"urn:li:fs_miniProfile:ACoAAAKPsm8B6V4Tugaj_OPiYg_ZX8v40A0k3e4"
+            }
+         ]
+      }
+   ],
+   "certifications":[
+      
+   ],
+   "volunteer":[
+      
+   ],
+   "honors":[
+      {
+         "title":"Visonary Leader",
+         "issueDate":{
+            "month":12,
+            "year":2013
+         },
+         "issuer":"The Caribbean American Chamber Of Commerce and Industry, Inc. (CACCI)"
+      }
+   ],
+   "projects":[
+      
+   ]
+}

@@ -1,0 +1,219 @@
+{
+   "industryName":"Venture Capital and Private Equity Principals",
+   "lastName":"Faza",
+   "locationName":"Saudi Arabia",
+   "student":false,
+   "geoCountryName":"Saudi Arabia",
+   "geoCountryUrn":"urn:li:fs_geo:100459316",
+   "geoLocationBackfilled":false,
+   "elt":false,
+   "industryUrn":"urn:li:fs_industry:106",
+   "firstName":"Walid",
+   "entityUrn":"urn:li:fs_profile:ACoAAAScv-wBCq3K-xM2WQaS23UeSPW-VXbdeY0",
+   "geoLocation":{
+      "geoUrn":"urn:li:fs_geo:101336206"
+   },
+   "geoLocationName":"Riyadh",
+   "location":{
+      "basicLocation":{
+         "countryCode":"sa"
+      }
+   },
+   "headline":"Partner & Chief Operating Officer at MSA Capital",
+   "displayPictureUrl":"https://media.licdn.com/dms/image/C5603AQHUU1QMeaL8Ig/profile-displayphoto-shrink_",
+   "img_100_100":"100_100/0/1616681065769?e=1719446400&v=beta&t=hlFVK7JUlzfiZDROTyHtbWnayCwB82nfNW9ekE89rBw",
+   "img_200_200":"200_200/0/1616681065769?e=1719446400&v=beta&t=fIfCTa1Ik5tQh3DgWQd3pi1hPDgj8ztS9hOwBZHzbko",
+   "img_400_400":"400_400/0/1616681065769?e=1719446400&v=beta&t=x8eSpQzbOq744ee6s5j5Gwixm9F64ucXop3oVFrBLu8",
+   "img_800_800":"800_800/0/1616681065769?e=1719446400&v=beta&t=iqQN2WhFOXtm44-RK0oy5RkNZCr2azT3VeW13BYDjLM",
+   "profile_id":"ACoAAAScv-wBCq3K-xM2WQaS23UeSPW-VXbdeY0",
+   "profile_urn":"urn:li:fs_miniProfile:ACoAAAScv-wBCq3K-xM2WQaS23UeSPW-VXbdeY0",
+   "member_urn":"urn:li:member:77381612",
+   "public_id":"walidfaza",
+   "experience":[
+      {
+         "entityUrn":"urn:li:fs_position:(ACoAAAScv-wBCq3K-xM2WQaS23UeSPW-VXbdeY0,1932761494)",
+         "companyName":"MSA Novo",
+         "timePeriod":{
+            "startDate":{
+               "month":12,
+               "year":2021
+            }
+         },
+         "description":"MSA Novo is a multi-stage global emerging markets-focused venture capital firm. The most active global fund investing in MENA companies. With over 12 years of experience in the region's venture capital industry, Walid is responsible for investments, partnerships, and running operations for MSA in emerging technology markets. Walid is an advisor to many startups and has extensive managerial, leadership, and mentorship expertise.",
+         "company":{
+            "employeeCountRange":{
+               "start":2,
+               "end":10
+            },
+            "industries":[
+               "Venture Capital & Private Equity"
+            ]
+         },
+         "title":"Partner & Chief Operating Officer",
+         "companyUrn":"urn:li:fs_miniCompany:78822478",
+         "companyLogoUrl":"https://media.licdn.com/dms/image/C560BAQEeEbuWNOPK7A/company-logo_"
+      },
+      {
+         "entityUrn":"urn:li:fs_position:(ACoAAAScv-wBCq3K-xM2WQaS23UeSPW-VXbdeY0,1467012226)",
+         "companyName":"MSA Capital",
+         "timePeriod":{
+            "startDate":{
+               "month":5,
+               "year":2019
+            }
+         },
+         "description":"Walid Faza is a Partner at MSA Capital, a global investment firm with $1.8bn under management. MSA's portfolio includes most of the sector leaders in the Chinese technology space, such as Meituan, Didi, BGI, and Boss Zhipin.",
+         "company":{
+            "employeeCountRange":{
+               "start":11,
+               "end":50
+            },
+            "industries":[
+               "Venture Capital & Private Equity"
+            ]
+         },
+         "title":"Partner",
+         "companyUrn":"urn:li:fs_miniCompany:18592571",
+         "companyLogoUrl":"https://media.licdn.com/dms/image/C560BAQGDHiJgsprWlg/company-logo_"
+      },
+      {
+         "locationName":"   ",
+         "entityUrn":"urn:li:fs_position:(ACoAAAScv-wBCq3K-xM2WQaS23UeSPW-VXbdeY0,737156822)",
+         "geoLocationName":"   ",
+         "companyName":"Wamda Capital",
+         "timePeriod":{
+            "endDate":{
+               "month":5,
+               "year":2019
+            },
+            "startDate":{
+               "month":7,
+               "year":2014
+            }
+         },
+         "description":"Wamda Capital is the largest growth stage fund in the MENA region that invests in high growth and capital efficient technology businesses led by exceptional entrepreneurs.",
+         "company":{
+            "employeeCountRange":{
+               "start":2,
+               "end":10
+            },
+            "industries":[
+               "Venture Capital & Private Equity"
+            ]
+         },
+         "title":"Partner",
+         "companyUrn":"urn:li:fs_miniCompany:4845649",
+         "companyLogoUrl":"https://media.licdn.com/dms/image/D4D0BAQGxdf7Uo6Ncew/company-logo_"
+      },
+      {
+         "entityUrn":"urn:li:fs_position:(ACoAAAScv-wBCq3K-xM2WQaS23UeSPW-VXbdeY0,263317865)",
+         "companyName":"Wamda",
+         "timePeriod":{
+            "endDate":{
+               "month":10,
+               "year":2014
+            },
+            "startDate":{
+               "month":3,
+               "year":2012
+            }
+         },
+         "description":"Transforming the early stage entrepreneurship ecosystem in MENASA",
+         "title":"Investment Manager"
+      },
+      {
+         "entityUrn":"urn:li:fs_position:(ACoAAAScv-wBCq3K-xM2WQaS23UeSPW-VXbdeY0,181156640)",
+         "companyName":"mena venture investments",
+         "timePeriod":{
+            "endDate":{
+               "month":10,
+               "year":2014
+            },
+            "startDate":{
+               "month":11,
+               "year":2010
+            }
+         },
+         "description":"MENA Venture Investments supports entrepreneurs with ventures that have strong growth potential. By forming strategic partnerships, we aim to enable the entrepreneur in various capacities beyond providing just capital, but also networking opportunities, managerial expertise, direction and support.",
+         "title":"Investment Manager"
+      }
+   ],
+   "education":[
+      {
+         "entityUrn":"urn:li:fs_education:(ACoAAAScv-wBCq3K-xM2WQaS23UeSPW-VXbdeY0,59355761)",
+         "school":{
+            "objectUrn":"urn:li:school:10889",
+            "entityUrn":"urn:li:fs_miniSchool:10889",
+            "active":true,
+            "schoolName":"Concordia University",
+            "trackingId":"m0ApePbuSCezeEhKAaRh2w==",
+            "logoUrl":"https://media.licdn.com/dms/image/D4E0BAQHwJM6UBUaPiw/company-logo_"
+         },
+         "timePeriod":{
+            "endDate":{
+               "year":1999
+            },
+            "startDate":{
+               "year":1996
+            }
+         },
+         "degreeName":"B.Comm",
+         "schoolName":"Concordia University",
+         "fieldOfStudy":"Marketing",
+         "schoolUrn":"urn:li:fs_miniSchool:10889"
+      },
+      {
+         "entityUrn":"urn:li:fs_education:(ACoAAAScv-wBCq3K-xM2WQaS23UeSPW-VXbdeY0,58554485)",
+         "school":{
+            "objectUrn":"urn:li:school:14790",
+            "entityUrn":"urn:li:fs_miniSchool:14790",
+            "active":true,
+            "schoolName":"American University of Beirut",
+            "trackingId":"0WnLihVkTo67isM44UDdQg==",
+            "logoUrl":"https://media.licdn.com/dms/image/C4E0BAQF0TAe75GMPWA/company-logo_"
+         },
+         "timePeriod":{
+            "endDate":{
+               "year":2010
+            },
+            "startDate":{
+               "year":2008
+            }
+         },
+         "degreeName":"MBA",
+         "schoolName":"American University of Beirut",
+         "schoolUrn":"urn:li:fs_miniSchool:14790"
+      },
+      {
+         "entityUrn":"urn:li:fs_education:(ACoAAAScv-wBCq3K-xM2WQaS23UeSPW-VXbdeY0,59355769)",
+         "timePeriod":{
+            "endDate":{
+               "year":1996
+            },
+            "startDate":{
+               "year":1992
+            }
+         },
+         "degreeName":"IB",
+         "schoolName":"Amman Baccalaureate School"
+      }
+   ],
+   "languages":[
+      
+   ],
+   "publications":[
+      
+   ],
+   "certifications":[
+      
+   ],
+   "volunteer":[
+      
+   ],
+   "honors":[
+      
+   ],
+   "projects":[
+      
+   ]
+}
